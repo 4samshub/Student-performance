@@ -1,0 +1,62 @@
+string
+   is a sequence of character wrapped in quote;
+ let name = "Micheal Outseed"
+ static in typed languages it means that the string does not change
+string is interable 
+ string .length
+console.log(name.length(name.to upper case)
+leading spaces 
+let example = "---A----"
+console(example.trim().length)
+
+charAt( will take in the index and bring out the number of characters)
+sub string
+.slice it takes negative values
+        ARRAYS
+ allows you to store sequences of values
+arrays methods arrays uess index
+.push to add values into arrays 
+.pop to remove from the last 
+.shift to remove from the first 
+.unshift to add to the first 
+.join gives you all the string values
+autantication system
+
+ to access values of an object  is value.age
+
+
+
+
+
+
+   
+
+
+
+
+//to check the whole properties in user1
+let use1properties=object.key(user1)
+console.log(user1properties.includes)
+object.key returns all the keys in the arrays 
+  access modifiers means if you  an get the properties of the class.it can be private or public
+      GitHub
+value data type the values cannot be changed
+refrences datatype they can be changed
+which  
+       
+
+
+    loops
+allows you to run a progammming code a multiple amount of time until it gets to the condition 
+ for(let x = 0; x<10; x++){
+    console.log(x);
+   }
+
+ post increment returns values before add
+  pre increment adds before increasing/returning the value
+
+
+
+
+
+
